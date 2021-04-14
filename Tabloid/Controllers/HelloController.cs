@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Tabloid.Controllers
 {
@@ -10,6 +11,13 @@ namespace Tabloid.Controllers
         public IActionResult Hello()
         {
             return Content("hello");
+        }
+
+        [Authorize]
+        [HttpGet("auth")]
+        public IActionResult HelloAuth()
+        {
+            return Content("hello from an endpoint that requires auth");
         }
     }
 }
