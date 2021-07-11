@@ -42,28 +42,28 @@ The company has hired a designer and here are the mock-ups they provided. You sh
 
 #### Login Page
 
-![Login Page](Images\Tabloid-Login.PNG)
+![Login Page](Images/Tabloid-Login.PNG)
 
 #### Home Page 
 
-![Home Page](Images\Tabloid_Home.png)
+![Home Page](Images/Tabloid_Home.png)
 
 #### Explore Page
 
-![Explore Page](Images\Tabloid_Explore.png)
+![Explore Page](Images/Tabloid_Explore.png)
 
 #### Your Post's Page
 
-![Your Post's Page](Images\Tabloid_MyPosts.png)
+![Your Post's Page](Images/Tabloid_MyPosts.png)
 
 #### Create Post Form
 
-![Create Post Form](Images\Tabloid_CreatePost.png)
+![Create Post Form](Images/Tabloid_CreatePost.png)
 
 #### Post Details Page
 
-![Post Details Page](Images\Tabloid-PostDetails.PNG)
+![Post Details Page](Images/Tabloid-PostDetails.PNG)
 
 #### Category List Page
 
-![Category List Page](Images\Tabloid-Lists.PNG)
+![Category List Page](Images/Tabloid-Lists.PNG)
