@@ -1,8 +1,6 @@
 # Tabloid - Fullstack
 
-## We have two sprints to implement a production ready Tabloid application.
-
-### Getting Started
+## Getting Started
 
 1. Pull down this repo
 
@@ -26,44 +24,47 @@
 
 1. Install your dependencies by running `npm install` from the same directory as your `package.json` file
 
+## Mock-Ups
 
-### Mock-Ups
+The company has hired a designer and here are the mock-ups they provided.
 
-The company has hired a designer and here are the mock-ups they provided. While functionality comes first, and should be your priority, you should try to adhere roughly to the designs provided. (The quill used in some of the mock ups is included in the images folder for your use as needed!)
+> **NOTE:** Styling should **_NOT_** be prioritized over functionality. UI/UX **is** important, but it's more important that you focus on the code.
 
-##### (Any Changes should be discussed with the Product Owner behforehand!)
+  **NOTE:** (The quill logo seen in some of the mockups is provided for you inside of the images folder along with the other mock-ups to use as needed!)
+  
+### Colors
 
-#### Colors
+These are the hex codes for the colors used in the mockups
 
-##### Red: #db534b
-##### Grey: #6c767d
-##### Black: #343a40
-##### Green: #5bb8a6
+* Red: `#db534b`
+* Grey: `#6c767d`
+* Black: `#343a40`
+* Green: `#5bb8a6`
 
-#### Login Page
+### Login Page
 
-![Login Page](Images\Tabloid-Login.PNG)
+![Login Page](Images/Tabloid-Login.PNG)
 
-#### Home Page 
+### Home Page
 
-![Home Page](Images\Tabloid_Home.png)
+![Home Page](Images/Tabloid_Home.png)
 
-#### Explore Page
+### Explore Page
 
-![Explore Page](Images\Tabloid_Explore.png)
+![Explore Page](Images/Tabloid_Explore.png)
 
-#### Your Post's Page
+### Your Post's Page
 
-![Your Post's Page](Images\Tabloid_MyPosts.png)
+![Your Post's Page](Images/Tabloid_MyPosts.png)
 
-#### Create Post Form
+### Create Post Form
 
-![Create Post Form](Images\Tabloid_CreatePost.png)
+![Create Post Form](Images/Tabloid_CreatePost.png)
 
-#### Post Details Page
+### Post Details Page
 
-![Post Details Page](Images\Tabloid-PostDetails.PNG)
+![Post Details Page](Images/Tabloid-PostDetails.PNG)
 
-#### Category List Page
+### Category List Page
 
-![Category List Page](Images\Tabloid-Lists.PNG)
+![Category List Page](Images/Tabloid-Lists.PNG)
