@@ -1,8 +1,6 @@
 # Tabloid - Fullstack
 
-## We have two sprints to implement a production ready Tabloid application.
-
-### Getting Started
+## Getting Started
 
 1. Pull down this repo
 
@@ -26,44 +24,45 @@
 
 1. Install your dependencies by running `npm install` from the same directory as your `package.json` file
 
-
-### Mock-Ups
+## Mock-Ups
 
 The company has hired a designer and here are the mock-ups they provided. You should try to make your pages look like the images below.
 
-##### (Any Changes should be discussed with the Product Owner behforehand!)
+> **NOTE:** (Any Changes should be discussed with the Product Owner behforehand!)
 
-#### Colors
+### Colors
 
-##### Red: #db534b
-##### Grey: #6c767d
-##### Black: #343a40
-##### Green: #5bb8a6
+These are the hex codes for the colors used in the mockups
 
-#### Login Page
+* Red: `#db534b`
+* Grey: `#6c767d`
+* Black: `#343a40`
+* Green: `#5bb8a6`
+
+### Login Page
 
 ![Login Page](Images/Tabloid-Login.PNG)
 
-#### Home Page 
+### Home Page
 
 ![Home Page](Images/Tabloid_Home.png)
 
-#### Explore Page
+### Explore Page
 
 ![Explore Page](Images/Tabloid_Explore.png)
 
-#### Your Post's Page
+### Your Post's Page
 
 ![Your Post's Page](Images/Tabloid_MyPosts.png)
 
-#### Create Post Form
+### Create Post Form
 
 ![Create Post Form](Images/Tabloid_CreatePost.png)
 
-#### Post Details Page
+### Post Details Page
 
 ![Post Details Page](Images/Tabloid-PostDetails.PNG)
 
-#### Category List Page
+### Category List Page
 
 ![Category List Page](Images/Tabloid-Lists.PNG)
