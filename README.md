@@ -29,7 +29,7 @@
 
 ### Mock-Ups
 
-The company has hired a designer and here are the mock-ups they provided. You should try to make your pages look like the images below.
+The company has hired a designer and here are the mock-ups they provided. While functionality comes first, and should be your priority, you should try to adhere roughly to the designs provided. 
 
 ##### (Any Changes should be discussed with the Product Owner behforehand!)
 
