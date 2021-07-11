@@ -26,9 +26,9 @@
 
 ## Mock-Ups
 
-The company has hired a designer and here are the mock-ups they provided. You should try to make your pages look like the images below.
+The company has hired a designer and here are the mock-ups they provided.
 
-> **NOTE:** (Any Changes should be discussed with the Product Owner behforehand!)
+> **NOTE:** Styling should **_NOT_** be prioritized over functionality. UI/UX **is** important, but it's more important that you focus on the code.
 
 ### Colors
 
