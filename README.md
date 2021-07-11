@@ -29,7 +29,7 @@
 
 ### Mock-Ups
 
-The company has hired a designer and here are the mock-ups they provided. While functionality comes first, and should be your priority, you should try to adhere roughly to the designs provided. 
+The company has hired a designer and here are the mock-ups they provided. While functionality comes first, and should be your priority, you should try to adhere roughly to the designs provided. (The quill used in some of the mock ups is included in the images folder for your use as needed!)
 
 ##### (Any Changes should be discussed with the Product Owner behforehand!)
 
