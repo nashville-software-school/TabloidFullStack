@@ -25,3 +25,45 @@
 1. Rename the `.env.local.example` file to remove the `.example` extension. This file should now just be called `.env.local`
 
 1. Install your dependencies by running `npm install` from the same directory as your `package.json` file
+
+
+### Mock-Ups
+
+The company has hired a designer and here are the mock-ups they provided. You should try to make your pages look like the images below.
+
+##### (Any Changes should be discussed with the Product Owner behforehand!)
+
+#### Colors
+
+##### Red: #db534b
+##### Grey: #6c767d
+##### Black: #343a40
+##### Green: #5bb8a6
+
+#### Login Page
+
+![Login Page](Images\Tabloid-Login.PNG)
+
+#### Home Page 
+
+![Home Page](Images\Tabloid_Home.png)
+
+#### Explore Page
+
+![Explore Page](Images\Tabloid_Explore.png)
+
+#### Your Post's Page
+
+![Your Post's Page](Images\Tabloid_MyPosts.png)
+
+#### Create Post Form
+
+![Create Post Form](Images\Tabloid_CreatePost.png)
+
+#### Post Details Page
+
+![Post Details Page](Images\Tabloid-PostDetails.PNG)
+
+#### Category List Page
+
+![Category List Page](Images\Tabloid-Lists.PNG)
