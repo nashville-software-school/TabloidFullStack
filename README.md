@@ -30,8 +30,8 @@ The company has hired a designer and here are the mock-ups they provided.
 
 > **NOTE:** Styling should **_NOT_** be prioritized over functionality. UI/UX **is** important, but it's more important that you focus on the code.
 
-  **NOTE:** (The quill logo seen in some of the mockups is provided for you inside of the images folder along with the other mock-ups to use as needed!)
-  
+> **NOTE:** (The quill logo seen in some of the mockups is provided for you inside of the images folder along with the other mock-ups to use as needed!)
+
 ### Colors
 
 These are the hex codes for the colors used in the mockups
